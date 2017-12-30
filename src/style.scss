@@ -1,0 +1,9 @@
+@import './styles/_reset';
+@import './styles/_colors';
+
+p {
+  padding: 20px;
+  background: $color1;
+  color: #dedede;
+  text-shadow: 0 1px 1px rgba(#000, .5);
+}
